@@ -185,7 +185,7 @@ code
 ## Emoji
 
 ```markdown
-:smile
+:smile:
 ```
 
 ## Documentation and Utilities
