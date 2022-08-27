@@ -12,18 +12,18 @@ tags: [install-guide, config-guide]
 First you've to install the shell zsh.
 
 I'm a fedora user, so I'm gonna use DNF but if you're Ubuntu user try APT instead of DNF:
-```console
+```shell
 sudo dnf install zsh
 ```
 
 Install oh-my-zsh:
-```console
+```shell
 sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 ```
 
 Set zsh as your default shell:
-```console
-chsh -s /bin/zsh
+```shell
+chsh -s /usr/bin/zsh
 ```
 
 ## Nerd Fonts
@@ -36,13 +36,13 @@ I'm gonna use Hack Nerd Font.
 
 PowerLevel10k is a theme to oh my zsh.
 
-```console
+```shell
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
 Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`.
 
-```console
+```shell
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
 
@@ -50,13 +50,13 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 zsh-syntax-highlighting is a syntax highlighter for shell commands.
 
-```console
+```shell
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 
 Set in your `~/.zshrc`:
 
-```console
+```shell
 plugins=( 
     git
     zsh-syntax-highlighting
@@ -67,13 +67,13 @@ plugins=(
 
 zsh-autosuggestions is a autocomplete tool for your shell.
 
-```console
+```shell
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
 Set in your `~/.zshrc`:
 
-```console
+```shell
 plugins=( 
     git
     zsh-syntax-highlighting

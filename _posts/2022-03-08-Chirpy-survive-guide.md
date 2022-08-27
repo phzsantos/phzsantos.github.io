@@ -38,7 +38,7 @@ And then copy the remaining image files to the directory `assets/img/favicons/`
 
 First clone your repository:
 
-```console
+```shell
 git clone reponame.github.io
 ```
 
@@ -46,7 +46,7 @@ Follow [Jekyll](https://jekyllrb.com/docs/installation/) documentation to instal
 
 Go to the project folder, open terminal inside it and do this command:
 
-```console
+```shell
 bundle
 ```
 
@@ -54,7 +54,7 @@ bundle
 
 Now to run a local server:
 
-```console
+```shell
 bundle exec jekyll s
 ```
 
