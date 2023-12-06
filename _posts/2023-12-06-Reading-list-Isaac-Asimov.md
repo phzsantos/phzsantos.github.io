@@ -2,7 +2,7 @@
 author:
   name: Paulo Henrique Zanoteli Santos
 title: Reading list - Isaac Asimov 
-date: 2023-12-06 10:00:00 UTC-3
+date: 2023-12-06 16:50:00 UTC-3
 categories: [Books, Literature]
 tags: [isaac-asimov, sci-fi]
 ---
