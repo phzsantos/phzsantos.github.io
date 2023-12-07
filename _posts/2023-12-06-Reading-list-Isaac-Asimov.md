@@ -9,7 +9,7 @@ tags: [isaac-asimov, sci-fi]
 
 # Reading list - Isaac Asimov
 
-| ID  | Título                  | Read |
+| ID  | Title                   | Read |
 |:---:| ------------------------|:----:|
 | 1   | Fundação                |  Yes |
 | 2   | Fundação e Império      |  Yes |
