@@ -17,7 +17,7 @@ tags: [isaac-asimov, sci-fi]
 | 4   | Eu, Robô                |  Yes |
 | 5   | As Cavernas de Aço      |  Yes |
 | 6   | O Sol Desvelado         |  Yes |
-| 7   | Os Robôs da Alvorada    |      |
+| 7   | Os Robôs da Alvorada    |  Yes |
 | 8   | Pedra no Céu            |      |
 | 9   | Robôs e Império         |      |
 | 10  | Prelúdio à Fundação     |      |
