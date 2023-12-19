@@ -18,7 +18,7 @@ tags: [isaac-asimov, sci-fi]
 | 5   | As Cavernas de Aço      |  Yes |
 | 6   | O Sol Desvelado         |  Yes |
 | 7   | Os Robôs da Alvorada    |  Yes |
-| 8   | Pedra no Céu            |      |
+| 8   | Pedra no Céu            |  Yes |
 | 9   | Robôs e Império         |      |
 | 10  | Prelúdio à Fundação     |      |
 | 11  | Origens da Fundação     |      |
