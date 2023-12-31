@@ -19,7 +19,7 @@ tags: [isaac-asimov, sci-fi]
 | 6   | O Sol Desvelado         |  Yes |
 | 7   | Os Robôs da Alvorada    |  Yes |
 | 8   | Pedra no Céu            |  Yes |
-| 9   | Robôs e Império         |      |
+| 9   | Robôs e Império         |  Yes |
 | 10  | Prelúdio à Fundação     |      |
 | 11  | Origens da Fundação     |      |
 | 12  | Poeira de Estrelas      |      |
