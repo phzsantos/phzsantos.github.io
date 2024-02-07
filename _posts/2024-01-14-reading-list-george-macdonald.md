@@ -11,7 +11,7 @@ tags: [george-macdonald, fantasy]
 
 | ID  | Title                           | Read |
 |:---:| ------------------------------- |:----:|
-| 1   | A Princesa Leve                 |      |
+| 1   | A Princesa Leve                 |  Yes |
 | 2   | Phantastes                      |      |
 | 3   | A chave dourada e outros contos |      |
 | 4   | A princesa e o goblin           |      |
