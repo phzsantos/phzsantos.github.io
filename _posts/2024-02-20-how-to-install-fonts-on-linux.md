@@ -26,7 +26,7 @@ cp ~/Downloads/Hack.zip ~/.fonts/
 ## 4 - Unzip your fonts
 
 ```shell
-unzip ~/.fonts/Hack.zip
+unzip ~/.fonts/Hack.zip -d ~/.fonts/
 ```
 
 ## 5 - Delete unused files
