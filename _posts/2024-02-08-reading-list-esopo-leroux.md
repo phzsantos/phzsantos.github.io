@@ -11,4 +11,4 @@ tags: [esopo-leroux, fable]
 
 | ID  | Title            | Read |
 |:---:| ---------------- |:----:|
-| 1   | Fábulas de Esopo |      |
+| 1   | Fábulas de Esopo |  Yes |
