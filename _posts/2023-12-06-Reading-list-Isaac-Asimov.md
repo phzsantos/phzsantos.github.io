@@ -9,6 +9,8 @@ tags: [isaac-asimov, sci-fi]
 
 # Reading list - Isaac Asimov
 
+## Foundation universe
+
 | ID  | Title                   | Read |
 |:---:| ------------------------|:----:|
 | 1   | Fundação                |  Yes |
@@ -26,3 +28,12 @@ tags: [isaac-asimov, sci-fi]
 | 13  | As Correntes do Espaço  |      |
 | 14  | Limites da Fundação     |      |
 | 15  | Fundação e Terra        |      |
+
+## Other books
+
+| ID  | Title                | Read |
+|:---:| -------------------- |:----:|
+| 1   | O fim da eternidade  |      |
+| 2   | Os próprios deuses   |      |
+| 3   | O cair da noite      |      |
+| 4   | O homem bicentenário |      |
