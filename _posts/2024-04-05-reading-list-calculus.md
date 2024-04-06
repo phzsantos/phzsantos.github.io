@@ -3,7 +3,7 @@ author:
   name: Paulo Henrique Zanoteli Santos
 title: Reading list - Calculus
 date: 2024-04-05 17:55:00 UTC-3
-categories: [Books, Literature]
+categories: [Books, Technical]
 tags: [math, calculus, francisco-magalhaes-gomes, james-stewart, daniel-clegg, saleem-watson]
 ---
 
