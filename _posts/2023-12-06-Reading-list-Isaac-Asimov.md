@@ -22,7 +22,7 @@ tags: [isaac-asimov, sci-fi]
 | 7   | Os Robôs da Alvorada    |  Yes |
 | 8   | Pedra no Céu            |  Yes |
 | 9   | Robôs e Império         |  Yes |
-| 10  | Prelúdio à Fundação     |      |
+| 10  | Prelúdio à Fundação     |  Yes |
 | 11  | Origens da Fundação     |      |
 | 12  | Poeira de Estrelas      |      |
 | 13  | As Correntes do Espaço  |      |
