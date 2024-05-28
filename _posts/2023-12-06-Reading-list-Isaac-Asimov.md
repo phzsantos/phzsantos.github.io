@@ -24,7 +24,7 @@ tags: [isaac-asimov, sci-fi]
 | 9   | Robôs e Império         |  Yes |
 | 10  | Prelúdio à Fundação     |  Yes |
 | 11  | Origens da Fundação     |  Yes |
-| 12  | Poeira de Estrelas      |      |
+| 12  | Poeira de Estrelas      |  Yes |
 | 13  | As Correntes do Espaço  |      |
 | 14  | Limites da Fundação     |      |
 | 15  | Fundação e Terra        |      |
