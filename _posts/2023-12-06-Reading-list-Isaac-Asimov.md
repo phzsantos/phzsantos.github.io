@@ -25,7 +25,7 @@ tags: [isaac-asimov, sci-fi]
 | 10  | Prelúdio à Fundação     |  Yes |
 | 11  | Origens da Fundação     |  Yes |
 | 12  | Poeira de Estrelas      |  Yes |
-| 13  | As Correntes do Espaço  |      |
+| 13  | As Correntes do Espaço  |  Yes |
 | 14  | Limites da Fundação     |      |
 | 15  | Fundação e Terra        |      |
 
