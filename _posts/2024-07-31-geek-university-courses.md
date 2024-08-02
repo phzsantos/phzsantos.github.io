@@ -15,7 +15,7 @@ tags: [udemy, courses, geek-university]
 | 2  | Git e Github Essencial para o Desenvolvedor                  |   Yes    |
 | 3  | Programação em C do básico ao avançado                       |   Yes    |
 | 4  | Programação em JavaScript do básico ao avançado              |   Yes    |
-| 5  | Programação em Python do básico ao avançado                  |          |
+| 5  | Programação em Python do básico ao avançado                  |   Yes    |
 | 6  | Padrões de Projeto (Design Patterns) com Python              |          |
 | 7  | Programação Concorrente e Assíncrona com Python              |          |
 | 8  | Visualização de Dados com Python                             |          |
