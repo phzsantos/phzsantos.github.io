@@ -27,7 +27,7 @@ tags: [isaac-asimov, sci-fi]
 | 12  | Poeira de Estrelas      |  Yes |
 | 13  | As Correntes do Espaço  |  Yes |
 | 14  | Limites da Fundação     |  Yes |
-| 15  | Fundação e Terra        |      |
+| 15  | Fundação e Terra        |  Yes |
 
 ## Other books
 
