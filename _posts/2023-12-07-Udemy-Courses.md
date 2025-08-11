@@ -9,13 +9,9 @@ tags: [udemy, courses]
 
 # My current study routine:
 
-| Day       | Course                                 |
-|:---------:|----------------------------------------|
-| Monday    | Programação em C do básico ao avançado |
-| Tuesday   | SQL Alchemy: Essencial                 |
-| Wednesday | Aprenda SQL do Zero!                   |
-| Thursday  | Curso Completo de Expressões Regulares |
-| Friday    | Visual Studio Code for Developers 2023 |
+| Course                                 |
+|----------------------------------------|
+| Visual Studio Code for Developers 2025 |
 
 ## This is my courses backlog:
 
@@ -23,16 +19,16 @@ tags: [udemy, courses]
 
 | ID | Title                                              | Finished |
 |:--:|----------------------------------------------------|:--------:|
-| 1  | Visual Studio Code for Developers 2023             |    On    |
+| 1  | Visual Studio Code for Developers 2025             |    On    |
 
 ### Algorithms and Programming:
 
 | ID | Title                                                        | Finished |
 |:--:|--------------------------------------------------------------|:--------:|
 | 1  | Algoritmos e Lógica de Programação 2023 O Curso COMPLETO     |   Yes    |
-| 2  | Programação em C do básico ao avançado                       |    On    |
+| 2  | Programação em C do básico ao avançado                       |   Yes    |
 | 3  | Estrutura de dados em Linguagem C                            |          |
-| 4  | Programação em Python do básico ao avançado                  |          |
+| 4  | Programação em Python do básico ao avançado                  |   Yes    |
 | 5  | Expressões regulares com Python 3 (Curso gratuito)           |          |
 | 6  | Estrutura de Dados e Algoritmos em Python O Guia Completo    |          |
 | 7  | Programação Concorrente e Assíncrona com Python              |          |
@@ -55,7 +51,7 @@ tags: [udemy, courses]
 
 | ID | Title                                                        | Finished |
 |:--:|--------------------------------------------------------------|:--------:|
-| 1  | Aprenda SQL do Zero!                                         |    On    |
+| 1  | Aprenda SQL do Zero!                                         |          |
 | 2  | Modelagem de Dados UML (Análise&Projeto Orientado a Objetos) |          |
 | 3  | Bancos de Dados SQL e NoSQL do básico ao avançado            |          |
 | 4  | Banco de Dados e Linguagem SQL com PostgreSQL                |          |
@@ -65,7 +61,7 @@ tags: [udemy, courses]
 | ID | Title                                                      | Finished |
 |:--:|------------------------------------------------------------|:--------:|
 | 1  | The Flask Mega-Tutorial (Python Web Development)           |   Yes    |
-| 2  | SQL Alchemy: Essencial                                     |    On    |
+| 2  | SQL Alchemy: Essencial                                     |          |
 | 3  | The Complete Automation PyTest Course for 2023             |          |
 | 4  | Python Unit Testing Fundamentals (using unittest & pytest) |          |
 | 5  | Automação de Testes Web com Selenium Webdriver e Python    |          |
@@ -79,7 +75,7 @@ tags: [udemy, courses]
 | 1  | Linux Completo para Usuário Comum ou Desenvolvedor          |   Yes    |
 | 2  | Primeiros Passos no Linux - Conceitos e Principais Comandos |   Yes    |
 | 3  | Curso de Vim Moderno, VimScript e Neovim com Lua            |   Yes    |
-| 4  | Curso Completo de Expressões Regulares                      |    On    |
+| 4  | Curso Completo de Expressões Regulares                      |          |
 | 5  | Fundamentos de Expressões Regulares (Regex)                 |          |
 | 6  | Curso Completo de Sed Editor de Fluxo                       |          |
 | 7  | Curso de Shell Script do Iniciante ao Avançado              |          |
