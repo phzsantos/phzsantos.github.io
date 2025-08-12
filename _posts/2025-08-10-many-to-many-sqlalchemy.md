@@ -11,6 +11,10 @@ tags: [python, sqlachemy, sql, orm]
 
 Eu sempre esqueço isso aqui, então fica ai o exemplo
 
+### PONTO DE ATENÇÃO
+
+Se for criar as tabelas e a relação delas do ZERO, crie primeiro as tabelas principais e depois você cria a tabela de relação e insere a relação na primeira tabela. No caso de tabelas já existentes basta seguir isso ai.
+
 ### 1. Primeiro cria uma tabela como variavel
 
 ```python
