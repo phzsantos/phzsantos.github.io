@@ -13,8 +13,8 @@ tags: [cs-lewis, fantasy]
 
 | ID  | Title                                 | Read |
 |:---:| ------------------------------------- |:----:|
-| 1   | O Sobrinho do Mago                    |      |
-| 2   | O Leão, a Feiticeira e o Guarda-roupa |      |
+| 1   | O Sobrinho do Mago                    | Yes  |
+| 2   | O Leão, a Feiticeira e o Guarda-roupa | Yes  |
 | 3   | O Cavalo e seu Menino                 |      |
 | 4   | Príncipe Caspian                      |      |
 | 5   | A Viagem do Peregrino da Alvorada     |      |
