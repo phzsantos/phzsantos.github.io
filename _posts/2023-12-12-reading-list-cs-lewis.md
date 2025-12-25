@@ -15,8 +15,8 @@ tags: [cs-lewis, fantasy]
 |:---:| ------------------------------------- |:----:|
 | 1   | O Sobrinho do Mago                    | Yes  |
 | 2   | O Leão, a Feiticeira e o Guarda-roupa | Yes  |
-| 3   | O Cavalo e seu Menino                 |      |
-| 4   | Príncipe Caspian                      |      |
+| 3   | O Cavalo e seu Menino                 | Yes  |
+| 4   | Príncipe Caspian                      | Yes  |
 | 5   | A Viagem do Peregrino da Alvorada     |      |
 | 6   | A Cadeira de Prata                    |      |
 | 7   | A Última Batalha                      |      |
