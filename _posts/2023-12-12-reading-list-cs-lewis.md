@@ -18,8 +18,8 @@ tags: [cs-lewis, fantasy]
 | 3   | O Cavalo e seu Menino                 | Yes  |
 | 4   | Príncipe Caspian                      | Yes  |
 | 5   | A Viagem do Peregrino da Alvorada     | Yes  |
-| 6   | A Cadeira de Prata                    |      |
-| 7   | A Última Batalha                      |      |
+| 6   | A Cadeira de Prata                    | Yes  |
+| 7   | A Última Batalha                      | Yes  |
 
 ## The Space Trilogy
 
